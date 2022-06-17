@@ -3,7 +3,7 @@
 
 # Discord.js V13 Selfbot
 
-Discord selfbot using [discord.js-selfbot](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
+Discord selfbot using [discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
 
 ## Acknowledgements
 
