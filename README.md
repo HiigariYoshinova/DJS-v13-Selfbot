@@ -13,5 +13,5 @@ Account automations or exploitations on Discord is prohibited and against the [D
 - I don't have any features to put here yet lol
 ## Author
 
-- [@AvinchYoshinova](https://github.com/AvinchYoshinova)
+- [@HiigariYoshinova](https://github.com/HiigariYoshinova)
 
